@@ -25,7 +25,7 @@ class CustomTitleController {
     $randTitleId = rand(0, 2);
     $randTitles = [
       'This is a great page',
-      'This is an alful page',
+      'This is an awful page',
       'Is this a page?',
     ];
 
